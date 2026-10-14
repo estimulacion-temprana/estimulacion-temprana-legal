@@ -39,6 +39,7 @@ main {
 
 h2 { color: var(--primario-texto); font-size: 20px; margin-top: 32px; }
 a { color: var(--primario-texto); }
+.idioma { text-align: right; font-size: 15px; margin: 0 0 8px; }
 .actualizado { color: var(--texto-suave); font-size: 15px; margin-top: 0; }
 ul { padding-left: 22px; }
 li { margin-bottom: 6px; }
